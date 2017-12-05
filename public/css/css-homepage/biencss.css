@@ -1,0 +1,48 @@
+#hotnew{
+  background-color: #d1e1ee;
+  float: right;
+  margin-lef: 300px;
+}
+#history{
+  display: none;
+}
+#sport{
+  display: none;
+}
+
+#Van{
+  display: none;
+}
+
+#math{
+  display: none;
+}
+
+#KHXH{
+  display: none;
+}
+
+#dialy{
+  display: none;
+}
+.error{
+  padding: 2%;
+  margin: 2%;
+  background-color: #f9d1d5;
+}
+.image{
+  width: 300px;
+  height: 150px;
+  max-height: 150px;
+  background-size:center center;
+  background-size: cover;
+}
+.show{
+  top:500px;
+}
+.menu {
+   top: 50px;
+   transition: top 800ms ease 0s;
+   position: fixed;
+   z-index: 9999;
+}w
